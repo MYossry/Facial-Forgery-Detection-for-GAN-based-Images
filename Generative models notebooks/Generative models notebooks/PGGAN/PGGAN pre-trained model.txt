@@ -1,0 +1,5 @@
+add the PGGAN pre-trained model to your drive then run (PGGAN - testing) notebook
+
+
+file link:
+https://drive.google.com/file/d/188K19ucknC6wg1R6jbuPEhTq9zoufOx4/view?usp=sharing
